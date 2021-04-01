@@ -1,0 +1,43 @@
+#header div {
+    display: inline-block;
+    margin: auto 10px;
+    height: 100px;
+    vertical-align: 100%;
+}
+
+#header h1 {
+    display: inline;
+    margin: 0;
+    line-height: normal;
+    vertical-align: baseline;
+}
+
+.reviews img {
+    width: 16px;
+    height: 16px;
+}
+
+.reviews, #rating-system {
+    border-spacing: 4px;
+}
+
+.reviews td, #rating-system td {
+    vertical-align: top;
+}
+
+.first {
+    margin-top: 0;
+}
+
+.bones {
+    width: 54px;
+}
+
+hr, #copyright {
+    margin-top: 20px;
+}
+
+#copyright {
+    text-align: center;
+    font-size: small;
+}

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>The Fairmount Mystery Hearts</name>
+  <description><![CDATA[Mysterious hearts adorn sewer vent covers around Fairmount, in south Noe Valley and Glen Park. Now with photos!
+
+If you know of more, or know why they're there, huxley at eagerbeagle dot com would like to hear it.]]></description>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style11">
+    <LineStyle>
+      <color>73C0C0C0</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://eagerbeagle.com/images/mystery-heart-icon.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>146-152 Tiffany Avenue</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3737821414/" title="146-152 Tiffany Avenue by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3489/3737821414_de7d597731_t.jpg" alt="146-152 Tiffany Avenue" height="75" width="100"></a>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-122.421707,37.744640,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1380-1382 Sanchez Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741561810/" title="1380-1382 Sanchez Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2619/3741561810_1cb17a033c_t.jpg" alt="1380-1382 Sanchez Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-122.429367,37.747066,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>501 Duncan Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741577378/" title="501 Duncan Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2626/3741577378_352c7426e4_t.jpg" alt="501 Duncan Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-122.431458,37.745785,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>170 Valley Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3739571424/" title="170 Valley Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3452/3739571424_bafcd984b5_t.jpg" alt="170 Valley Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-122.426193,37.744621,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>204A Day Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3739573482/" title="204A Day Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2662/3739573482_56dbbe8b45_t.jpg" alt="204A Day Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-122.426796,37.742916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>438 Day Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3738793333/" title="438 Day Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2527/3738793333_b45bab1bb0_t.jpg" alt="438 Day Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-122.431793,37.742672,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2306 Castro Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3739584750/" title="2306 Castro Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3433/3739584750_df199d5037_t.jpg" alt="2306 Castro Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-122.433487,37.742962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>446 30th Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740762367/" title="446 30th Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2592/3740762367_7498da6396_t.jpg" alt="446 30th Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-122.429642,37.741978,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1861 Church Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740791039/" title="1861 Church Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2650/3740791039_fa6d5ebdce_t.jpg" alt="1861 Church Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-122.426628,37.740559,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>58-60 Whitney Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741586744/" title="58-60 Whitney Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3480/3741586744_c84bfd7ab0_t.jpg" alt="58-60 Whitney Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-122.427834,37.740704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>42 Harper Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740786993/" title="42 Harper Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2599/3740786993_3dcc3dcf3f_t.jpg" alt="42 Harper Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-122.429955,37.741085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>81 Harper Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740789261/" title="81 Harper Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2643/3740789261_5109849b83_t.jpg" alt="81 Harper Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-122.429878,37.740608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>100 Laidley Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740771339/" title="100 Laidley Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2667/3740771339_3da456e4e9_t.jpg" alt="100 Laidley Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-122.430763,37.740372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>159 Laidley Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740782041/" title="159 Laidley Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2625/3740782041_04cea427af_t.jpg" alt="159 Laidley Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-122.428955,37.739471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>174 Laidley Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740773645/" title="174 Laidley Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2674/3740773645_db7490770a_t.jpg" alt="174 Laidley Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-122.428581,37.739109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>226 Laidley Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740775441/" title="226 Laidley Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3516/3740775441_c55766e6c4_t.jpg" alt="226 Laidley Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-122.428101,37.738445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>215 Beacon Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741558364/" title="215 Beacon Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2565/3741558364_dc31221f1c_t.jpg" alt="215 Beacon Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-122.432243,37.740219,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>152 Fairmount Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740795509/" title="152 Fairmount Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3525/3740795509_75958862fb_t.jpg" alt="152 Fairmount Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-122.426598,37.738979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>116 Miguel Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740779569/" title="116 Miguel Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2626/3740779569_fabbd3fc06_t.jpg" alt="116 Miguel Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-122.428688,37.738091,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>121 Miguel Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3737137497/" title="121 Miguel Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3431/3737137497_1baa7428b4_t.jpg" alt="121 Miguel Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-122.428673,37.738243,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>36 Bemis Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3740777303/" title="36 Bemis Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3503/3740777303_bb229b9fd0_t.jpg" alt="36 Bemis Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-122.429558,37.737869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>164-166 Bemis Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3739580106/" title="164-166 Bemis Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3159/3739580106_8090e99631_t.jpg" alt="164-166 Bemis Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-122.430656,37.737190,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>355 Chenery Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741593194/" title="355 Chenery Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3161/3741593194_a92cdbff6d_t.jpg" alt="355 Chenery Street" height="75" width="100"></a>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-122.428284,37.736759,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>100 Roanoke Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741590912/" title="100 Roanoke Street by eagerbeagle, on Flickr"><img src="http://farm3.static.flickr.com/2475/3741590912_824230c5d3_t.jpg" alt="100 Roanoke Street" height="100" width="75"></a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-122.430771,37.735962,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>423 Arlington Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3737594353/" title="423 Arlington Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3530/3737594353_68c74e5a29_t.jpg" alt="423 Arlington Street" height="75" width="100"></a>
+<div dir="ltr">Disappeared in late 2007 or early 2008.</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-122.428635,37.735580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mystery heart zone</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.418182,37.748180,0.000000
+        -122.422501,37.748009,0.000000
+        -122.433929,37.747250,0.000000
+        -122.433479,37.741749,0.000000
+        -122.432518,37.735779,0.000000
+        -122.432175,37.732323,0.000000
+        -122.430908,37.732422,0.000000
+        -122.429604,37.732338,0.000000
+        -122.428055,37.732082,0.000000
+        -122.424774,37.735325,0.000000
+        -122.424088,37.737465,0.000000
+        -122.423874,37.739346,0.000000
+        -122.418182,37.748180,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Area searched so far</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.417900,37.749279,0.000000
+        -122.436249,37.748161,0.000000
+        -122.435669,37.741791,0.000000
+        -122.436012,37.741581,0.000000
+        -122.435822,37.741001,0.000000
+        -122.436958,37.738800,0.000000
+        -122.437340,37.738560,0.000000
+        -122.437790,37.738560,0.000000
+        -122.437027,37.737541,0.000000
+        -122.436119,37.738071,0.000000
+        -122.434898,37.738659,0.000000
+        -122.434982,37.737240,0.000000
+        -122.434532,37.735809,0.000000
+        -122.434059,37.735031,0.000000
+        -122.434250,37.734150,0.000000
+        -122.434769,37.732719,0.000000
+        -122.434059,37.732929,0.000000
+        -122.432281,37.732250,0.000000
+        -122.431290,37.732399,0.000000
+        -122.430130,37.732380,0.000000
+        -122.429283,37.732330,0.000000
+        -122.428032,37.732059,0.000000
+        -122.424957,37.735100,0.000000
+        -122.420029,37.734859,0.000000
+        -122.420067,37.733452,0.000000
+        -122.416702,37.733318,0.000000
+        -122.416206,37.739319,0.000000
+        -122.418480,37.739491,0.000000
+        -122.419365,37.739872,0.000000
+        -122.415802,37.745354,0.000000
+        -122.417732,37.746201,0.000000
+        -122.418167,37.746899,0.000000
+        -122.418724,37.746899,0.000000
+        -122.417877,37.748199,0.000000
+        -122.417877,37.749249,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>108 Bosworth Street</name>
+    <description><![CDATA[<a href="http://www.flickr.com/photos/eagerbeagle/3741595508/" title="108 Bosworth Street by eagerbeagle, on Flickr"><img src="http://farm4.static.flickr.com/3421/3741595508_d3ebd13b47_t.jpg" alt="108 Bosworth Street" height="100" width="75"></a><br><br>Disappeared in 2008 or 2009.<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-122.428101,37.733608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

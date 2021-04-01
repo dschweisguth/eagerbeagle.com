@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://eagerbeagle.com/</id>
+  <title>Huxley Beagle and Wallace Beagle!</title>
+  <icon>/images/huxley-circle-small.jpeg</icon>
+  <logo>/images/huxley-circle.jpeg</logo>
+  <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+  <link rel="self" type="application/atom+xml" href="http://eagerbeagle.com/index.atom"/>
+  <author>
+    <name>Huxley Beagle and Wallace Beagle</name>
+    <uri>http://eagerbeagle.com/</uri>
+  </author>
+  <updated>2021-03-21T14:55:00-08:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2021:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</summary>
+    <updated>2021-03-21T14:55:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2020:eagerbeagle.com/</id>
+    <title>Neighborhood Christmas light tour</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/neighborhood-christmas-light-tour"/>
+    <summary>Neighborhood Christmas light tour</summary>
+    <updated>2020-12-27T06:56:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2020:eagerbeagle.com/</id>
+    <title>Happy 15th HuXViersary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-15th-huxviersary"/>
+    <summary>Happy 15th HuXViersary!</summary>
+    <updated>2020-12-25T08:56:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2020:eagerbeagle.com/</id>
+    <title>Huxley's Sweet Sixteenth</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-sweet-sixteenth"/>
+    <summary>Huxley's Sweet Sixteenth</summary>
+    <updated>2020-06-24T10:40:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2020:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in Foster City</summary>
+    <updated>2020-03-04T11:50:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2019:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in South City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in South City</summary>
+    <updated>2019-12-31T15:50:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2019:eagerbeagle.com/happy-14th-huxiversary/</id>
+    <title>Happy 14th HuXIVersary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-14th-huXIVersary/"/>
+    <summary>Happy 14th HuXIVersary!</summary>
+    <updated>2019-12-09T14:21:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2019:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in Foster City</summary>
+    <updated>2019-09-16T13:03:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2019:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</summary>
+    <updated>2019-08-25T14:30:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2018:eagerbeagle.com/happy-13th-huxiiiversary/</id>
+    <title>Happy 13th Huxiiiversary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-13th-huxiiiversary/"/>
+    <summary>Happy 13th Huxiiiversary!</summary>
+    <updated>2018-12-16T15:10:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2018:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in Foster City</summary>
+    <updated>2018-08-21T20:02:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2018:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at Fort Funston</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at Fort Funston</summary>
+    <updated>2018-06-24T18:10:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2018:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at St. Mary's</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at St. Mary's</summary>
+    <updated>2018-03-15T07:35:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2018:eagerbeagle.com/valentine-from-huxley-and-wallace-2018/</id>
+    <title>Valentine from Huxley and Wallace 2018</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/valentine-from-huxley-and-wallace-2018/"/>
+    <summary>Valentine from Huxley and Wallace 2018</summary>
+    <updated>2018-02-15T19:53:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2017:eagerbeagle.com/the-twelve-dog-days-of-huxiiversary/</id>
+    <title>The Twelve Dog Days of Huxiiversary</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/the-twelve-dog-days-of-huxiiversary/"/>
+    <summary>The Twelve Dog Days of Huxiiversary</summary>
+    <updated>2017-12-09T16:42:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2017:eagerbeagle.com/on-the-road-for-wallaversary-iv/</id>
+    <title>On the Road for Wallaversary IV</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/on-the-road-for-wallaversary-iv/"/>
+    <summary>On the Road for Wallaversary IV</summary>
+    <updated>2017-07-13T16:14:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2017:eagerbeagle.com/huxleys-lucky-thirteenth/</id>
+    <title>Huxley's Lucky Thirteenth</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-lucky-thirteenth/"/>
+    <summary>Huxley's Lucky Thirteenth</summary>
+    <updated>2017-06-25T12:19:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2017:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at Fort Funston</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at Fort Funston</summary>
+    <updated>2017-06-19T18:47:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2017:eagerbeagle.com/happy-11th-huxiversary/</id>
+    <title>Valentine from Huxley 2017</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/valentine-from-huxley-2017/"/>
+    <summary>Valentine from Huxley 2017</summary>
+    <updated>2017-02-13T22:22:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/happy-11th-huxiversary/</id>
+    <title>Happy 11th Huxiversary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-11th-huxiversary/"/>
+    <summary>Happy 11th Huxiversary!</summary>
+    <updated>2016-12-10T08:48:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at Fort Funston</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at Fort Funston</summary>
+    <updated>2016-07-27T12:56:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/huxleys-twelfth-birthday-heartstravaganza/</id>
+    <title>Huxley's Twelfth Birthday Heartstravaganza</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-twelfth-birthday-heartstravaganza/"/>
+    <summary>Huxley's Twelfth Birthday Heartstravaganza</summary>
+    <updated>2016-08-01T08:52:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in South City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in South City</summary>
+    <updated>2016-05-31T12:20:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/</id>
+    <title>The Fairmount Mystery Heart map has a new entry, and new images for all of the mystery hearts.</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/fairmount-mystery-hearts.html"/>
+    <summary>The Fairmount Mystery Heart map has a new entry, and new images for all of the mystery hearts.</summary>
+    <updated>2016-04-26T13:20:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at our own St. Mary's Park</summary>
+    <updated>2016-04-11T22:22:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles on the big dog side in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles on the big dog side in Foster City</summary>
+    <updated>2016-04-11T22:22:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2016:eagerbeagle.com/huxiversary-x/</id>
+    <title>Huxiversary X!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxiversary-x/"/>
+    <summary>Huxiversary X!</summary>
+    <updated>2016-01-16T16:46:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2015:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles at Fort Funston</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles at Fort Funston</summary>
+    <updated>2015-08-08T09:16:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2015:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in South City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in South City</summary>
+    <updated>2015-07-18T15:33:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2015:eagerbeagle.com/huxley-turns-it-up-to-eleven/</id>
+    <title>Huxley Turns It Up To Eleven</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-turns-it-up-to-eleven/"/>
+    <summary>Huxley Turns It Up To Eleven</summary>
+    <updated>2015-06-22T22:58:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/happy-ninth-huxiversary/</id>
+    <title>Happy Ninth Huxiversary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-ninth-huxiversary/"/>
+    <summary>Happy Ninth Huxiversary!</summary>
+    <updated>2015-01-18T15:28:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/</id>
+    <title>Huxley and Wallace at Beaglefest Fall 2014</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace at Beaglefest Fall 2014</summary>
+    <updated>2014-10-05T17:58:00-7:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/wallaversary-in-hood-river/</id>
+    <title>Wallaversary in Hood River</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/wallaversary-in-hood-river/"/>
+    <summary>Wallaversary in Hood River</summary>
+    <updated>2014-07-11T17:43:00-7:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/restaurant-reviews.html</id>
+    <title>Huxley's Restaurant Reviews: Hood River, Oregon</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/restaurant-reviews.html"/>
+    <summary>Huxley's Restaurant Reviews: Hood River, Oregon</summary>
+    <updated>2014-07-11T16:38:00-7:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/huxleys-xth-birthday-heartstravaganza/</id>
+    <title>Huxley's Xth Birthday Heartstravaganza</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-xth-birthday-heartstravaganza/"/>
+    <summary>Huxley's Xth Birthday Heartstravaganza</summary>
+    <updated>2014-06-26T08:59:00-7:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/</id>
+    <title>Huxley and longest ears prize-winning Wallace at BeagleFest Spring 2014</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and longest ears prize-winning Wallace at BeagleFest Spring 2014</summary>
+    <updated>2014-06-10T15:35:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace with the Bay Area Beagles in Foster City</summary>
+    <updated>2014-05-28T14:16:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/huxley-and-wallace-and-carusos-dream/</id>
+    <title>Huxley and Wallace at the unveiling of Caruso's Dream</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-and-wallace-and-carusos-dream/"/>
+    <summary>Huxley and Wallace at the unveiling of Caruso's Dream</summary>
+    <updated>2014-03-02T15:10:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2014:eagerbeagle.com/valentine-from-huxley-and-wallace/</id>
+    <title>Valentine from Huxley and Wallace</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/valentine-from-huxley-and-wallace/"/>
+    <summary>Valentine from Huxley and Wallace</summary>
+    <updated>2014-02-16T19:47:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/happy-eighth-huxiversary/</id>
+    <title>Happy Eighth Huxiversary!</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/happy-eighth-huxiversary/"/>
+    <summary>Happy Eighth Huxiversary!</summary>
+    <updated>2013-12-08T13:14:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/</id>
+    <title>Huxley and Wallace at the rededication of the Brotherhood of Man mosaic in Franklin Square</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley and Wallace at the rededication of the Brotherhood of Man mosaic in Franklin Square</summary>
+    <updated>2013-11-24T20:27:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in San Bruno</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in San Bruno</summary>
+    <updated>2013-09-01T06:09:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/</id>
+    <title>Huxley and Wallace with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in Foster City</summary>
+    <updated>2013-07-13T00:00:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/wallaces-first-days-in-his-new-home</id>
+    <title>Wallace's first days in his new home</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/wallaces-first-days-in-his-new-home/"/>
+    <summary>Wallace's first days in his new home</summary>
+    <updated>2013-07-14T14:48:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/huxleys-ninth-birthday-heartstravaganza</id>
+    <title>Huxley's Ninth Birthday Heartstravaganza</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-ninth-birthday-heartstravaganza/"/>
+    <summary>Huxley's Ninth Birthday Heartstravaganza</summary>
+    <updated>2013-06-23T06:22:40-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/huxley-at-pooches-playtime-2013</id>
+    <title>Huxley at Pooches' Playtime</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-at-pooches-playtime-2013/"/>
+    <summary>Huxley at Pooches' Playtime</summary>
+    <updated>2013-05-23T06:23:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/valentine-from-huxley-2013</id>
+    <title>Valentine from Huxley 2013</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/valentine-from-huxley-2013/"/>
+    <summary>Valentine from Huxley 2013</summary>
+    <updated>2013-02-14T19:31:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles at our own Walter Haas Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles at our own Walter Haas Park</summary>
+    <updated>2013-02-12T22:04:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2013:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in Foster City</summary>
+    <updated>2013-01-27T19:21:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/lucky-seventh-huxiversary/</id>
+    <title>Lucky Seventh Huxiversary</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/lucky-seventh-huxiversary/"/>
+    <summary>Lucky Seventh Huxiversary</summary>
+    <updated>2012-12-02T13:17:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles at our own St. Mary's Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles at our own St. Mary's Park</summary>
+    <updated>2012-08-12T15:31:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/huxleys-eighth-birthday-heartstravaganza</id>
+    <title>Huxley's Eighth Birthday Heartstravaganza</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-eighth-birthday-heartstravaganza/"/>
+    <summary>Huxley's Eighth Birthday Heartstravaganza</summary>
+    <updated>2012-06-23T15:26:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/huxley-at-summer-camp</id>
+    <title>Huxley at Summer Camp</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-at-summer-camp/"/>
+    <summary>Huxley at Summer Camp</summary>
+    <updated>2012-06-23T05:57:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles at Point Isabel</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles at Point Isabel</summary>
+    <updated>2012-05-22T19:22:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/</id>
+    <title>Huxley at the GWSF picnic at El Polin Spring</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley at the GWSF picnic at El Polin Spring</summary>
+    <updated>2012-05-20T22:33:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles in South City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in South City</summary>
+    <updated>2012-03-04T16:49:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/valentine-from-huxley-2012</id>
+    <title>Valentine from Huxley 2012</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/valentine-from-huxley-2012/"/>
+    <summary>Valentine from Huxley 2012</summary>
+    <updated>2012-02-13T22:49:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/huxley-back-to-business</id>
+    <title>Huxley Back to Business</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-back-to-business/"/>
+    <summary>Huxley Back to Business</summary>
+    <updated>2012-01-14T08:42:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2012:eagerbeagle.com/huxley-at-pooches-playtime</id>
+    <title>Huxley at Pooches' Playtime</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-at-pooches-playtime/"/>
+    <summary>Huxley at Pooches' Playtime</summary>
+    <updated>2012-01-14T08:42:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles in San Bruno</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in San Bruno</summary>
+    <updated>2011-10-18T20:20:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley at the GWSF picnic at Baker Beach</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley at the GWSF picnic at Baker Beach</summary>
+    <updated>2011-10-18T20:20:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles at our own St. Mary's Park</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles at our own St. Mary's Park</summary>
+    <updated>2011-09-14T07:47:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/el-camino-beagle-2011/</id>
+    <title>El Camino Beagle 2011</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/el-camino-beagle-2011/"/>
+    <summary>El Camino Beagle 2011</summary>
+    <updated>2011-09-06T23:30:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley at Marin's Vineyard</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley at Marin's Vineyard</summary>
+    <updated>2011-09-06T23:37:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley with the Bay Area Beagles in Foster City</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley with the Bay Area Beagles in Foster City</summary>
+    <updated>2011-07-23T12:37:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/</id>
+    <title>Huxley at the June 2011 Beaglefest</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/"/>
+    <summary>Huxley at the June 2011 Beaglefest</summary>
+    <updated>2011-06-18T14:37:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/huxley-on-sabbatical/</id>
+    <title>Huxley on Sabbatical</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxley-on-sabbatical/"/>
+    <summary>Huxley on Sabbatical</summary>
+    <updated>2011-06-15T07:31:00-07:00</updated>
+  </entry>
+  <entry>
+    <id>tag:facebook.com,2011:huxley.beagle</id>
+    <title>Huxley Beagle is on Facebook!</title>
+    <link rel="alternate" type="text/html" href="http://www.facebook.com/huxley.beagle"/>
+    <summary>Huxley Beagle is on Facebook!</summary>
+    <updated>2011-03-02T13:58:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/huxleys-found-valentines/</id>
+    <title>Huxley's Found Valentines</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/huxleys-found-valentines/"/>
+    <summary>Huxley's Found Valentines</summary>
+    <updated>2011-02-10T12:25:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:www.meetup.com/Bay-Area-Beagles/photos/1208676/20970328/</id>
+    <title>Huxley with the Bay Area Beagles in San Bruno, not fetching his bone</title>
+    <link rel="alternate" type="text/html" href="http://www.meetup.com/Bay-Area-Beagles/photos/1208676/20970328/"/>
+    <summary>Huxley with the Bay Area Beagles in San Bruno, not fetching his bone</summary>
+    <updated>2011-01-23T11:32:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:www.meetup.com/Bay-Area-Beagles/photos/1208676/20970257/</id>
+    <title>Huxley with the Bay Area Beagles in San Bruno, fetching his bone</title>
+    <link rel="alternate" type="text/html" href="http://www.meetup.com/Bay-Area-Beagles/photos/1208676/20970257/"/>
+    <summary>Huxley with the Bay Area Beagles in San Bruno, fetching his bone</summary>
+    <updated>2011-01-23T11:32:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:eagerbeagle.com/restaurant-reviews.html</id>
+    <title>Huxley Beagle's restaurant reviews now include north Potrero Hill</title>
+    <link rel="alternate" type="text/html" href="http://eagerbeagle.com/restaurant-reviews.html"/>
+    <summary>Huxley Beagle's restaurant reviews now include north Potrero Hill</summary>
+    <updated>2011-01-10T17:46:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:www.facebook.com/photo.php_fbid=10150177653678009_set=a.110233078008.114104.68686458008</id>
+    <title>Huxley at NileGuide, not on the floor</title>
+    <link rel="alternate" type="text/html" href="http://www.facebook.com/photo.php?fbid=10150177653678009&amp;set=a.110233078008.114104.68686458008"/>
+    <summary>Huxley at NileGuide, not on the floor</summary>
+    <updated>2011-01-06T17:16:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:www.facebook.com/photo.php_fbid=10150177452983009_set=a.110233078008.114104.68686458008</id>
+    <title>Huxley at NileGuide, on the floor</title>
+    <link rel="alternate" type="text/html" href="http://www.facebook.com/photo.php?fbid=10150177452983009&amp;set=a.110233078008.114104.68686458008"/>
+    <summary>Huxley at NileGuide, on the floor</summary>
+    <updated>2011-01-06T17:16:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:huxleywuxley.blogspot.com/2010/12/huxley-ck452-superdog.html</id>
+    <title>Huxley CK452 Superdog</title>
+    <link rel="alternate" type="text/html" href="http://huxleywuxley.blogspot.com/2010/12/huxley-ck452-superdog.html"/>
+    <summary>Huxley CK452 Superdog</summary>
+    <updated>2011-01-01T21:12:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:happy-fifth-huxiversary/</id>
+    <title>Happy Fifth Huxiversary!</title>
+    <link rel="alternate" type="text/html" href="happy-fifth-huxiversary/"/>
+    <summary>Happy Fifth Huxiversary!</summary>
+    <updated>2011-01-01T21:11:00-08:00</updated>
+  </entry>
+  <entry>
+    <id>tag:eagerbeagle.com,2011:huxleywuxley.blogspot.com/2010/05/huxley-beagle-wine-critic.html</id>
+    <title>Huxley Beagle, Wine Critic Extraordinaire</title>
+    <link rel="alternate" type="text/html" href="http://huxleywuxley.blogspot.com/2010/05/huxley-beagle-wine-critic.html"/>
+    <summary>Huxley Beagle, Wine Critic Extraordinaire</summary>
+    <updated>2011-01-01T21:09:00-08:00</updated>
+  </entry>
+</feed>

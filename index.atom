@@ -10,7 +10,14 @@
     <name>Huxley Beagle, Wallace Beagle and Halley Beagle</name>
     <uri>https://eagerbeagle.com/</uri>
   </author>
-  <updated>2021-06-09T10:04:00-07:00</updated>
+  <updated>2021-08-21T12:06:00-07:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2021:wallace-sails-solo/</id>
+    <title>Wallace Sails Solo</title>
+    <link rel="alternate" type="text/html" href="https://eagerbeagle.com/wallace-sails-solo/"/>
+    <summary>Wallace Sails Solo</summary>
+    <updated>2021-08-21T12:06:00-07:00</updated>
+  </entry>
   <entry>
     <id>tag:eagerbeagle.com,2021:hux-springs-eternal/</id>
     <title>Hux Springs Eternal</title>

@@ -10,7 +10,14 @@
     <name>Huxley Beagle, Wallace Beagle and Halley Beagle</name>
     <uri>https://eagerbeagle.com/</uri>
   </author>
-  <updated>2021-08-21T12:06:00-07:00</updated>
+  <updated>2021-08-23T15:45:00-07:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2021:meanwhile-in-buena-park/</id>
+    <title>Meanwhile, in Buena Park...</title>
+    <link rel="alternate" type="text/html" href="https://eagerbeagle.com/meanwhile-in-buena-park/"/>
+    <summary>Meanwhile, in Buena Park...</summary>
+    <updated>2021-08-23T15:45:00-07:00</updated>
+  </entry>
   <entry>
     <id>tag:eagerbeagle.com,2021:wallace-sails-solo/</id>
     <title>Wallace Sails Solo</title>

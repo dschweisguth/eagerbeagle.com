@@ -10,12 +10,19 @@
     <name>Huxley Beagle, Wallace Beagle and Halley Beagle</name>
     <uri>https://eagerbeagle.com/</uri>
   </author>
-  <updated>2023-11-27T14:33:00-07:00</updated>
+  <updated>2023-12-09T11:30:00-07:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2023:eagerbeagle.com/halleys-fourth-trip-around-the-sun</id>
+    <title>Halley's Fourth Trip Around the Sun</title>
+    <link rel="alternate" type="text/html" href="https://eagerbeagle.com/halleys-fourth-trip-around-the-sun/"/>
+    <summary>Halley's Fourth Trip Around the Sun</summary>
+    <updated>2023-11-27T14:33:00-07:00</updated>
+  </entry>
   <entry>
     <id>tag:eagerbeagle.com,2023:eagerbeagle.com</id>
     <title>Wallace and Halley with the Bay Area Beagles at Alameda Dog Park</title>
     <link rel="alternate" type="text/html" href="https://eagerbeagle.com/"/>
-    <summary>Wallace and Halley with the Bay Area Beagles at Alameda Dog park</summary>
+    <summary>Wallace and Halley with the Bay Area Beagles at Alameda Dog Park</summary>
     <updated>2023-11-27T14:33:00-07:00</updated>
   </entry>
   <entry>

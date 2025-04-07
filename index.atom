@@ -10,7 +10,14 @@
     <name>Huxley Beagle, Wallace Beagle and Halley Beagle</name>
     <uri>https://eagerbeagle.com/</uri>
   </author>
-  <updated>2025-04-06T19:22:00-07:00</updated>
+  <updated>2025-04-07T06:24:00-07:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2025:eagerbeagle.com/visit-to-linus-and-marbles</id>
+    <title>Visit to Linus and Marbles</title>
+    <link rel="alternate" type="text/html" href="https://eagerbeagle.com/visit-to-linus-and-marbles/"/>
+    <summary>Visit to Linus and Marbles</summary>
+  <updated>2025-04-07T06:24:00-07:00</updated>
+  </entry>
   <entry>
     <id>tag:eagerbeagle.com,2025:eagerbeagle.com</id>
     <title>Wallace and Halley with the Bay Area Beagles at Point Richmond</title>
@@ -19,7 +26,7 @@
     <updated>2025-04-06T19:22:00-07:00</updated>
   </entry>
   <entry>
-    <id>tag:eagerbeagle.com,2025:eagerbeagle.com</id>
+    <id>tag:eagerbeagle.com,2025:eagerbeagle.com/halley-on-the-sf-perimeter-walk</id>
     <title>Halley on the San Francisco Perimeter Walk</title>
     <link rel="alternate" type="text/html" href="https://eagerbeagle.com/halley-on-the-sf-perimeter-walk"/>
     <summary>Halley on the San Francisco Perimeter Walk</summary>

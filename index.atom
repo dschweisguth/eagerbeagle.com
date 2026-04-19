@@ -10,7 +10,14 @@
     <name>Huxley Beagle, Wallace Beagle and Halley Beagle</name>
     <uri>https://eagerbeagle.com/</uri>
   </author>
-  <updated>2026-04-05T13:35:00-07:00</updated>
+  <updated>2026-04-18T17:09:00-07:00</updated>
+  <entry>
+    <id>tag:eagerbeagle.com,2026:eagerbeagle.com/halley-at-pedro-point</id>
+    <title>Halley at Pedro Point</title>
+    <link rel="alternate" type="text/html" href="https://eagerbeagle.com/halley-at-pedro-point"/>
+    <summary>Halley at Pedro Point</summary>
+    <updated>2026-04-18T17:09:00-07:00</updated>
+  </entry>
   <entry>
     <id>tag:eagerbeagle.com,2026:eagerbeagle.com</id>
     <title>Wallace and Halley with the Bay Area Beagles hunting Easter eggs in St. Mary's Park</title>
@@ -26,7 +33,7 @@
     <updated>2026-03-24T09:47:00-07:00</updated>
   </entry>
   <entry>
-    <id>tag:eagerbeagle.com,2025:eagerbeagle.com/westward-ho-on-the-checkmark-trail</id>
+    <id>tag:eagerbeagle.com,2026:eagerbeagle.com/westward-ho-on-the-checkmark-trail</id>
     <title>Westward Ho on the Checkmark Trail</title>
     <link rel="alternate" type="text/html" href="https://eagerbeagle.com/westward-ho-on-the-checkmark-trail"/>
     <summary>Westward Ho on the Checkmark Trail</summary>
